@@ -1,0 +1,32 @@
+# Configuration file for Contract Risk Analyzer
+
+# Data paths
+data:
+  raw_contracts: "data/raw/real_contracts"
+  processed: "data/processed"
+  labels: "data/labels"
+
+# SEC EDGAR settings
+sec:
+  company_name: "ContractAnalyzerProject"
+  email: "your.email@example.com"
+  rate_limit_delay: 2  # seconds between requests
+
+# Model settings
+model:
+  max_features: 5000
+  ngram_range: [1, 3]
+  min_df: 2
+  test_size: 0.2
+  random_state: 42
+
+# Risk thresholds
+risk:
+  high_threshold: 0.7
+  medium_threshold: 0.4
+
+# API settings
+api:
+  host: "0.0.0.0"
+  port: 5000
+  debug: true
