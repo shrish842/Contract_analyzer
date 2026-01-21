@@ -93,4 +93,4 @@ MIT License
 
 ## Contact
 
-[Your Name] - [your.email@example.com]
+[Shrish Agrawal] - [agrawalshrish321@gmail.com]
