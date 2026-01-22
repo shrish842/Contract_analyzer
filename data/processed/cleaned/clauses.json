@@ -1,0 +1,956 @@
+[
+  {
+    "id": 0,
+    "text": "Wearables, Home and Accessories Wearables, Home and Accessories includes: •AirPods®, the Company’s wireless headphones, including AirPods, AirPods Pro® and AirPods Max™; •Apple TV®, the Company’s media streaming and gaming device based on its tvOS® operating system, including Apple TV 4K and Apple TV HD; •Apple Watch®, the Company’s line of smartwatches based on its watchOS® operating system, including Apple Watch Ultra™, Apple Watch Series 8 and Apple Watch SE®; and •Beats® products, HomePod mini® and accessories.",
+    "word_count": 76,
+    "source": "Apple 10-K 2022"
+  },
+  {
+    "id": 1,
+    "text": "The offerings provide priority access to Apple technical support, access to the global Apple authorized service network for repair and replacement services, and in many cases additional coverage for instances of accidental damage and/or theft and loss, depending on the country and type of product.",
+    "word_count": 45,
+    "source": "Apple 10-K 2022"
+  },
+  {
+    "id": 2,
+    "text": "The Company also offers digital content through subscription-based services, including Apple Arcade®, a game subscription service; Apple Fitness+SM, a personalized fitness service; Apple Music®, which offers users a curated listening experience with on-demand radio stations; Apple News+®, a subscription news and magazine service; and Apple TV+®, which offers exclusive original content and live sports.",
+    "word_count": 54,
+    "source": "Apple 10-K 2022"
+  },
+  {
+    "id": 3,
+    "text": "Competition The markets for the Company’s products and services are highly competitive, and are characterized by aggressive price competition and resulting downward pressure on gross margins, frequent introduction of new products and services, short product life cycles, evolving industry standards, continual improvement in product price and performance characteristics, rapid adoption of technological advancements by competitors, and price sensitivity on the part of consumers and businesses.",
+    "word_count": 65,
+    "source": "Apple 10-K 2022"
+  },
+  {
+    "id": 4,
+    "text": "Principal competitive factors important to the Company include price, product and service features (including security features), relative price and performance, product and service quality and reliability, design innovation, a strong third-party software and accessories ecosystem, marketing and distribution capability, service and support, and corporate reputation.",
+    "word_count": 45,
+    "source": "Apple 10-K 2022"
+  },
+  {
+    "id": 5,
+    "text": "Research and Development Because the industries in which the Company competes are characterized by rapid technological advances, the Company’s ability to compete successfully depends heavily upon its ability to ensure a continual and timely flow of competitive products, services and technologies to the marketplace.",
+    "word_count": 44,
+    "source": "Apple 10-K 2022"
+  },
+  {
+    "id": 6,
+    "text": "Although the Company believes the ownership of such intellectual property rights is an important factor in differentiating its business and that its success does depend in part on such ownership, the Company relies primarily on the innovative skills, technical competence and marketing abilities of its personnel.",
+    "word_count": 46,
+    "source": "Apple 10-K 2022"
+  },
+  {
+    "id": 7,
+    "text": "Apple Inc. | 2022 Form 10-K | 3 Business Seasonality and Product Introductions The Company has historically experienced higher net sales in its first quarter compared to other quarters in its fiscal year due in part to seasonal holiday demand.",
+    "word_count": 40,
+    "source": "Apple 10-K 2022"
+  },
+  {
+    "id": 8,
+    "text": "The timing of product introductions can also impact the Company’s net sales to its indirect distribution channels as these channels are filled with new inventory following a product launch, and channel inventory of an older product often declines as the launch of a newer product approaches.",
+    "word_count": 46,
+    "source": "Apple 10-K 2022"
+  },
+  {
+    "id": 9,
+    "text": "Because of the following factors, as well as other factors affecting the Company’s results of operations and financial condition, past financial performance should not be considered to be a reliable indicator of future performance, and investors should not use historical trends to anticipate results or trends in future periods.",
+    "word_count": 49,
+    "source": "Apple 10-K 2022"
+  },
+  {
+    "id": 10,
+    "text": "This section should be read in conjunction with Part II, Item 7, “Management’s Discussion and Analysis of Financial Condition and Results of Operations” and the consolidated financial statements and accompanying notes in Part II, Item 8, “Financial Statements and Supplementary Data” of this Form 10-K.",
+    "word_count": 45,
+    "source": "Apple 10-K 2022"
+  },
+  {
+    "id": 11,
+    "text": "Adverse macroeconomic conditions, including inflation, slower growth or recession, new or increased tariffs and other barriers to trade, changes to fiscal and monetary policy, tighter credit, higher interest rates, high unemployment and currency fluctuations can adversely impact consumer confidence and spending and materially adversely affect demand for the Company’s products and services.",
+    "word_count": 52,
+    "source": "Apple 10-K 2022"
+  },
+  {
+    "id": 12,
+    "text": "In addition, consumer confidence and spending can be materially adversely affected in response to financial market volatility, negative financial news, conditions in the real estate and mortgage markets, declines in income or asset values, energy shortages and cost increases, labor and healthcare costs and other economic factors.",
+    "word_count": 47,
+    "source": "Apple 10-K 2022"
+  },
+  {
+    "id": 13,
+    "text": "In addition to an adverse impact on demand for the Company’s products, uncertainty about, or a decline in, global or regional economic conditions can have a significant impact on the Company’s suppliers, contract manufacturers, logistics providers, distributors, cellular network carriers and other channel partners.",
+    "word_count": 44,
+    "source": "Apple 10-K 2022"
+  },
+  {
+    "id": 14,
+    "text": "A downturn in the economic environment can also lead to increased credit and collectibility risk on the Company’s trade receivables; the failure of derivative counterparties and other financial institutions; limitations on the Company’s ability to issue new debt; reduced liquidity; and declines in the fair value of the Company’s financial instruments.",
+    "word_count": 51,
+    "source": "Apple 10-K 2022"
+  },
+  {
+    "id": 15,
+    "text": "The extent to which the COVID-19 pandemic may impact the Company’s operational and financial performance remains uncertain and will depend on many factors outside the Company’s control, including the timing, extent, trajectory and duration of the pandemic, the emergence of new variants, the development, availability, distribution and effectiveness of vaccines and treatments, the imposition of protective public safety measures, and the impact of the pandemic on the global economy and demand for consumer products and services.",
+    "word_count": 76,
+    "source": "Apple 10-K 2022"
+  },
+  {
+    "id": 16,
+    "text": "Additional future impacts on the Company may include material adverse effects on demand for the Company’s products and services, the Company’s supply chain and sales and distribution channels, the Company’s ability to execute its strategic plans, and the Company’s profitability and cost structure.",
+    "word_count": 43,
+    "source": "Apple 10-K 2022"
+  },
+  {
+    "id": 17,
+    "text": "To the extent the COVID-19 pandemic adversely affects the Company’s business, results of operations, financial condition and stock price, it may also have the effect of heightening many of the other risks described in this Part I, Item 1A of this Form 10-K.",
+    "word_count": 43,
+    "source": "Apple 10-K 2022"
+  },
+  {
+    "id": 18,
+    "text": "Political events, trade and other international disputes, war, terrorism, natural disasters, public health issues, industrial accidents and other business interruptions can harm or disrupt international commerce and the global economy, and could have a material adverse effect on the Company and its customers, suppliers, contract manufacturers, logistics providers, distributors, cellular network carriers and other channel partners.",
+    "word_count": 56,
+    "source": "Apple 10-K 2022"
+  },
+  {
+    "id": 19,
+    "text": "Trade policies and disputes and other international conflicts can result in tariffs, sanctions and other measures that restrict international trade, and can materially adversely affect the Company’s business, particularly if these measures occur in regions where the Company derives a significant portion of its revenues and/or has significant supply chain operations.",
+    "word_count": 51,
+    "source": "Apple 10-K 2022"
+  },
+  {
+    "id": 20,
+    "text": "Countries may also adopt other measures, such as controls on imports or exports of goods, technology or data, that could adversely impact the Company’s operations and supply chain and limit the Company’s ability to offer its products and services as designed.",
+    "word_count": 41,
+    "source": "Apple 10-K 2022"
+  },
+  {
+    "id": 21,
+    "text": "In addition, such operations and facilities are subject to the risk of interruption by fire, power shortages, nuclear power plant accidents and other industrial accidents, terrorist attacks and other hostile acts, ransomware and other cybersecurity attacks, labor disputes, public health issues, including pandemics such as the COVID-19 pandemic, and other events beyond the Company’s control.",
+    "word_count": 55,
+    "source": "Apple 10-K 2022"
+  },
+  {
+    "id": 22,
+    "text": "Such events can make it difficult or impossible for the Company to manufacture and deliver products to its customers, create delays and inefficiencies in the Company’s supply and manufacturing chain, and result in slowdowns and outages to the Company’s service offerings.",
+    "word_count": 41,
+    "source": "Apple 10-K 2022"
+  },
+  {
+    "id": 23,
+    "text": "Major public health issues, including pandemics such as the COVID-19 pandemic, have adversely affected, and could in the future materially adversely affect, the Company due to their impact on the global economy and demand for consumer products; the imposition of protective public safety measures, such as stringent employee travel restrictions and limitations on freight services and the movement of products between regions; and disruptions in the Company’s supply chain and sales and distribution channels, resulting in interruptions of the supply of current products and delays in production ramps of new products.",
+    "word_count": 91,
+    "source": "Apple 10-K 2022"
+  },
+  {
+    "id": 24,
+    "text": "The Company’s products and services are offered in highly competitive global markets characterized by aggressive price competition and resulting downward pressure on gross margins, frequent introduction of new products and services, short product life cycles, evolving industry standards, continual improvement in product price and performance characteristics, rapid adoption of technological advancements by competitors, and price sensitivity on the part of consumers and businesses.",
+    "word_count": 63,
+    "source": "Apple 10-K 2022"
+  },
+  {
+    "id": 25,
+    "text": "Due to the highly volatile and competitive nature of the markets and industries in which the Company competes, the Company must continually introduce new products, services and technologies, enhance existing products and services, effectively stimulate customer demand for new and upgraded products and services, and successfully manage the transition to these new and upgraded products and services.",
+    "word_count": 57,
+    "source": "Apple 10-K 2022"
+  },
+  {
+    "id": 26,
+    "text": "The success of new product and service introductions depends on a number of factors, including timely and successful development, market acceptance, the Company’s ability to manage the risks associated with production ramp-up issues, the availability of application software for the Company’s products, the effective management of purchase commitments and inventory levels in line with anticipated product demand, the availability of products in appropriate quantities and at expected costs to meet anticipated demand, and the risk that new products and services may have quality or other defects or deficiencies.",
+    "word_count": 88,
+    "source": "Apple 10-K 2022"
+  },
+  {
+    "id": 27,
+    "text": "Substantially all of the Company’s manufacturing is performed in whole or in part by outsourcing partners located primarily in Asia, including China mainland, India, Japan, South Korea, Taiwan and Vietnam, and a significant concentration of this manufacturing is currently performed by a small number of outsourcing partners, often in single locations.",
+    "word_count": 51,
+    "source": "Apple 10-K 2022"
+  },
+  {
+    "id": 28,
+    "text": "Although arrangements with these partners may contain provisions for product defect expense reimbursement, the Company generally remains responsible to the consumer for warranty and out-of-warranty service in the event of product defects and experiences unanticipated product defect liabilities from time to time.",
+    "word_count": 42,
+    "source": "Apple 10-K 2022"
+  },
+  {
+    "id": 29,
+    "text": "While the Company relies on its partners to adhere to its supplier code of conduct, violations of the supplier code of conduct occur from time to time and can materially adversely affect the Company’s business, reputation, results of operations and financial condition.",
+    "word_count": 42,
+    "source": "Apple 10-K 2022"
+  },
+  {
+    "id": 30,
+    "text": "In addition, manufacturing or logistics in these locations or transit to final destinations can be disrupted for a variety of reasons, including natural and man-made disasters, information technology system failures, commercial disputes, armed conflict, economic, business, labor, environmental, public health or political issues, or international trade disputes.",
+    "word_count": 47,
+    "source": "Apple 10-K 2022"
+  },
+  {
+    "id": 31,
+    "text": "While these arrangements help ensure the supply of components and finished goods, if these outsourcing partners or suppliers experience severe financial problems or other disruptions in their business, such continued supply can be reduced or terminated, and the recoverability of manufacturing process equipment or prepayments can be negatively impacted.",
+    "word_count": 49,
+    "source": "Apple 10-K 2022"
+  },
+  {
+    "id": 32,
+    "text": "For example, the global semiconductor industry is experiencing high demand and shortages of supply, which has adversely affected, and could materially adversely affect, the Company’s ability to obtain sufficient quantities of components and products on commercially reasonable terms or at all.",
+    "word_count": 41,
+    "source": "Apple 10-K 2022"
+  },
+  {
+    "id": 33,
+    "text": "Component suppliers may suffer from poor financial conditions, which can lead to business failure for the supplier or consolidation within a particular industry, further limiting the Company’s ability to obtain sufficient quantities of components on commercially reasonable terms or at all.",
+    "word_count": 41,
+    "source": "Apple 10-K 2022"
+  },
+  {
+    "id": 34,
+    "text": "The effects of global or regional economic conditions on the Company’s suppliers, described in “The Company’s operations and performance depend significantly on global and regional economic conditions and adverse economic conditions can materially adversely affect the Company’s business, results of operations and financial condition,” above, can also affect the Company’s ability to obtain components.",
+    "word_count": 54,
+    "source": "Apple 10-K 2022"
+  },
+  {
+    "id": 35,
+    "text": "The continued availability of these components at acceptable prices, or at all, can be affected for any number of reasons, including if suppliers decide to concentrate on the production of common components instead of components customized to meet the Company’s requirements.",
+    "word_count": 41,
+    "source": "Apple 10-K 2022"
+  },
+  {
+    "id": 36,
+    "text": "When the Company’s supply of components for a new or existing product has been delayed or constrained, or when an outsourcing partner has delayed shipments of completed products to the Company, the Company’s business, results of operations and financial condition have been adversely affected and future delays or constraints could materially adversely affect the Company’s business, results of operations and financial condition.",
+    "word_count": 62,
+    "source": "Apple 10-K 2022"
+  },
+  {
+    "id": 37,
+    "text": "Quality problems can also adversely affect the experience for users of the Company’s products and services, and result in harm to the Company’s reputation, loss of competitive advantage, poor market acceptance, reduced demand for products and services, delay in new product and service introductions and lost sales.",
+    "word_count": 47,
+    "source": "Apple 10-K 2022"
+  },
+  {
+    "id": 38,
+    "text": "Although the Company believes its inventory, capital assets, inventory prepayments and other assets and purchase commitments are currently recoverable, there can be no assurance the Company will not incur write-downs, fees, impairments and other charges given the rapid and unpredictable pace of product obsolescence in the industries in which the Company competes.",
+    "word_count": 52,
+    "source": "Apple 10-K 2022"
+  },
+  {
+    "id": 39,
+    "text": "Because the Company’s markets are volatile, competitive and subject to rapid technology and price changes, there is a risk the Company will forecast incorrectly and order or produce excess or insufficient amounts of components or products, or not fully utilize firm purchase commitments.",
+    "word_count": 43,
+    "source": "Apple 10-K 2022"
+  },
+  {
+    "id": 40,
+    "text": "In addition, because of technological changes in the industries in which the Company currently competes or in the future may compete, current extensive patent coverage and the rapid rate of issuance of new patents, the Company’s products and services can unknowingly infringe existing patents or intellectual property rights of others.",
+    "word_count": 50,
+    "source": "Apple 10-K 2022"
+  },
+  {
+    "id": 41,
+    "text": "Failure to obtain the right to use third-party intellectual property, or to use such intellectual property on commercially reasonable terms, can preclude the Company from selling certain products or services, or otherwise have a material adverse impact on the Company’s business, results of operations and financial condition.",
+    "word_count": 47,
+    "source": "Apple 10-K 2022"
+  },
+  {
+    "id": 42,
+    "text": "The Company believes the availability of third-party software applications and services for its products depends in part on the developers’ perception and analysis of the relative benefits of developing, maintaining and upgrading such software and services for the Company’s products compared to competitors’ platforms, such as Android for smartphones and tablets, Windows for personal computers and tablets, and PlayStation, Nintendo and Xbox for gaming platforms.",
+    "word_count": 65,
+    "source": "Apple 10-K 2022"
+  },
+  {
+    "id": 43,
+    "text": "This analysis may be based on factors such as the market position of the Company and its products, the anticipated revenue that may be generated, expected future growth of product sales, and the costs of developing such applications and services.",
+    "word_count": 40,
+    "source": "Apple 10-K 2022"
+  },
+  {
+    "id": 44,
+    "text": "The Company’s minority market share in the global smartphone, personal computer and tablet markets can make developers less inclined to develop or upgrade software for the Company’s products and more inclined to devote their resources to developing and upgrading software for competitors’ products with larger market share.",
+    "word_count": 47,
+    "source": "Apple 10-K 2022"
+  },
+  {
+    "id": 45,
+    "text": "The Company’s products and operating systems are subject to rapid technological change, and when third-party developers are unable to or choose not to keep up with this pace of change, their applications can fail to take advantage of these changes to deliver improved customer experiences and can operate incorrectly and can result in dissatisfied customers.",
+    "word_count": 55,
+    "source": "Apple 10-K 2022"
+  },
+  {
+    "id": 46,
+    "text": "Apple Inc. | 2022 Form 10-K | 10 The Company’s success depends largely on the talents and efforts of its team members, the continued service and availability of highly skilled employees, including key personnel, and the Company’s ability to nurture its distinctive and inclusive culture.",
+    "word_count": 45,
+    "source": "Apple 10-K 2022"
+  },
+  {
+    "id": 47,
+    "text": "If the Company is unable to nurture its culture, it could materially adversely affect the Company’s ability to recruit and retain the highly skilled employees who are critical to its success, and could otherwise materially adversely affect the Company’s business, reputation, results of operations and financial condition.",
+    "word_count": 47,
+    "source": "Apple 10-K 2022"
+  },
+  {
+    "id": 48,
+    "text": "The Company also sells its products and services and resells third-party products in most of its major markets directly to consumers, small and mid-sized businesses, and education, enterprise and government customers through its retail and online stores and its direct sales force.",
+    "word_count": 42,
+    "source": "Apple 10-K 2022"
+  },
+  {
+    "id": 49,
+    "text": "The financial condition of these resellers could weaken, these resellers could stop distributing the Company’s products, or uncertainty regarding demand for some or all of the Company’s products could cause resellers to reduce their ordering and marketing of the Company’s products.",
+    "word_count": 41,
+    "source": "Apple 10-K 2022"
+  },
+  {
+    "id": 50,
+    "text": "The Company and its global supply chain are exposed to information technology system failures or network disruptions caused by natural disasters, accidents, power disruptions, telecommunications failures, acts of terrorism or war, computer viruses, physical or electronic break-ins, ransomware or other cybersecurity incidents, or other events or disruptions.",
+    "word_count": 47,
+    "source": "Apple 10-K 2022"
+  },
+  {
+    "id": 51,
+    "text": "Although the Company takes steps to secure confidential information that is provided to or accessible by third parties working on the Company’s behalf, such measures are not always effective and losses or unauthorized access to or releases of confidential information occur.",
+    "word_count": 41,
+    "source": "Apple 10-K 2022"
+  },
+  {
+    "id": 52,
+    "text": "These attacks seek to compromise the confidentiality, integrity or availability of confidential information or disrupt normal business operations, and could, among other things, impair the Company’s ability to attract and retain customers for its products and services, impact the Company’s stock price, materially damage commercial relationships, and expose the Company to litigation or government investigations, which could result in penalties, fines or judgments against the Company.",
+    "word_count": 66,
+    "source": "Apple 10-K 2022"
+  },
+  {
+    "id": 53,
+    "text": "Globally, attacks are expected to continue accelerating in both frequency and sophistication with increasing use by actors of tools and techniques that are designed to circumvent controls, avoid detection, and remove or obfuscate forensic evidence, all of which hinders the Company’s ability to identify, investigate and recover from incidents.",
+    "word_count": 49,
+    "source": "Apple 10-K 2022"
+  },
+  {
+    "id": 54,
+    "text": "Although malicious attacks perpetrated to gain access to confidential information, including personal information, affect many companies across various industries, the Company is at a relatively greater risk of being targeted because of its high profile and the value of the confidential information it creates, owns, manages, stores and processes.",
+    "word_count": 49,
+    "source": "Apple 10-K 2022"
+  },
+  {
+    "id": 55,
+    "text": "The Company has implemented systems and processes intended to secure its information technology systems and prevent unauthorized access to or loss of sensitive data, and mitigate the impact of unauthorized access, including through the use of encryption and authentication technologies.",
+    "word_count": 40,
+    "source": "Apple 10-K 2022"
+  },
+  {
+    "id": 56,
+    "text": "For example, third parties can fraudulently induce the Company’s or its vendors’ employees or customers into disclosing user names, passwords or other sensitive information, which can, in turn, be used for unauthorized access to the Company’s or its vendors’ systems and services.",
+    "word_count": 42,
+    "source": "Apple 10-K 2022"
+  },
+  {
+    "id": 57,
+    "text": "To help protect customers and the Company, the Company deploys and makes available technologies like multifactor authentication, monitors its services and systems for unusual activity and may freeze accounts under suspicious circumstances, which, among other things, can result in the delay or loss of customer orders or impede customer access to the Company’s products and services.",
+    "word_count": 56,
+    "source": "Apple 10-K 2022"
+  },
+  {
+    "id": 58,
+    "text": "Such endeavors may involve significant risks and uncertainties, including distraction of management from current operations, greater-than-expected liabilities and expenses, economic, political, legal and regulatory challenges associated with operating in new businesses, regions or countries, inadequate return on capital, potential impairment of tangible and intangible assets, and significant write-offs.",
+    "word_count": 48,
+    "source": "Apple 10-K 2022"
+  },
+  {
+    "id": 59,
+    "text": "Investment and acquisition transactions are exposed to additional risks, including failing to obtain required regulatory approvals on a timely basis or at all, or the imposition of onerous conditions that could delay or prevent the Company from completing a transaction or otherwise limit the Company’s ability to fully realize the anticipated benefits of a transaction.",
+    "word_count": 55,
+    "source": "Apple 10-K 2022"
+  },
+  {
+    "id": 60,
+    "text": "Due to the high cost structure associated with the Company’s retail stores, a decline in sales or the closure or poor performance of an individual store or multiple stores, including as a result of protective public safety measures in response to the COVID-19 pandemic, could result in significant lease termination costs, write-offs of equipment and leasehold improvements and severance costs.",
+    "word_count": 60,
+    "source": "Apple 10-K 2022"
+  },
+  {
+    "id": 61,
+    "text": "The Company’s retail operations are subject to many factors that pose risks and uncertainties and could adversely impact the Company’s business, results of operations and financial condition, including macro-economic factors that could have an adverse effect on general retail activity.",
+    "word_count": 40,
+    "source": "Apple 10-K 2022"
+  },
+  {
+    "id": 62,
+    "text": "Other factors include the Company’s ability to: manage costs associated with retail store construction and operation; manage relationships with existing retail partners; manage costs associated with fluctuations in the value of retail inventory; and obtain and renew leases in quality retail locations at a reasonable cost.",
+    "word_count": 46,
+    "source": "Apple 10-K 2022"
+  },
+  {
+    "id": 63,
+    "text": "Except as described in Part I, Item 3 of this Form 10-K under the heading “Legal Proceedings” and in Part II, Item 8 of this Form 10-K in the Notes to Consolidated Financial Statements in Note 10, “Commitments and Contingencies” under the heading “Contingencies,” in the opinion of management, there was not at least a reasonable possibility the Company may have incurred a material loss, or a material loss greater than a recorded accrual, concerning loss contingencies for asserted legal and other claims.",
+    "word_count": 83,
+    "source": "Apple 10-K 2022"
+  },
+  {
+    "id": 64,
+    "text": "If one or more legal matters were resolved against the Company or an indemnified third party in a reporting period for amounts above management’s expectations, the Company’s results of operations and financial condition for that reporting period could be materially adversely affected.",
+    "word_count": 42,
+    "source": "Apple 10-K 2022"
+  },
+  {
+    "id": 65,
+    "text": "Further, such an outcome can result in significant compensatory, punitive or trebled monetary damages, disgorgement of revenue or profits, remedial corporate measures or injunctive relief against the Company, and can require the Company to change its business practices and limit the Company’s ability to offer certain products and services, all of which could materially adversely affect the Company’s business, reputation, results of operations and financial condition.",
+    "word_count": 66,
+    "source": "Apple 10-K 2022"
+  },
+  {
+    "id": 66,
+    "text": "The Company’s global operations are subject to complex and changing laws and regulations on subjects, including antitrust; privacy, data security and data localization; consumer protection; advertising, sales, billing and e-commerce; financial services and technology; product liability; intellectual property ownership and infringement; digital platforms; internet, telecommunications, and mobile communications; media, television, film and digital content; availability of third-party software applications and services; labor and employment; anticorruption; import, export and trade; foreign exchange controls and cash repatriation restrictions; anti–money laundering; foreign ownership and investment; tax; and environmental, health and safety, including electronic waste, recycling, and climate change.",
+    "word_count": 95,
+    "source": "Apple 10-K 2022"
+  },
+  {
+    "id": 67,
+    "text": "New and changing laws and regulations can adversely affect the Company’s business by increasing the Company’s costs, limiting the Company’s ability to offer a product, service or feature to customers, impacting customer demand for the Company’s products and services, and requiring changes to the Company’s supply chain and its business.",
+    "word_count": 50,
+    "source": "Apple 10-K 2022"
+  },
+  {
+    "id": 68,
+    "text": "The Company has implemented policies and procedures designed to ensure compliance with applicable laws and regulations, but there can be no assurance the Company’s employees, contractors or agents will not violate such laws and regulations or the Company’s policies and procedures.",
+    "word_count": 41,
+    "source": "Apple 10-K 2022"
+  },
+  {
+    "id": 69,
+    "text": "Although the Company has programs, policies and procedures in place that are designed to satisfy regulatory requirements, there can be no assurance that such policies and procedures will be effective in preventing a violation or a claim of a violation.",
+    "word_count": 40,
+    "source": "Apple 10-K 2022"
+  },
+  {
+    "id": 70,
+    "text": "Any failure, or perceived failure, by the Company to achieve its goals, further its initiatives, adhere to its public statements, comply with federal, state or international environmental, social and governance laws and regulations, or meet evolving and varied stakeholder expectations and standards could result in legal and regulatory proceedings against the Company and materially adversely affect the Company’s business, reputation, results of operations, financial condition and stock price.",
+    "word_count": 68,
+    "source": "Apple 10-K 2022"
+  },
+  {
+    "id": 71,
+    "text": "The Company is also currently subject to antitrust investigations in various jurisdictions around the world, which can result in legal proceedings and claims against the Company that could, individually or in the aggregate, have a materially adverse impact on the Company’s business, results of operations and financial condition.",
+    "word_count": 48,
+    "source": "Apple 10-K 2022"
+  },
+  {
+    "id": 72,
+    "text": "If such investigations result in adverse findings against the Company, the Company could be exposed to significant fines and may be required to make changes to its App Store business, all of which could materially adversely affect the Company’s business, results of operations and financial condition.",
+    "word_count": 46,
+    "source": "Apple 10-K 2022"
+  },
+  {
+    "id": 73,
+    "text": "Further, the Company has commercial relationships with other companies in the technology industry that are or may become subject to investigations and litigation that, if resolved against those other companies, could materially adversely affect the Company’s commercial relationships with those business partners and materially adversely affect the Company’s business, results of operations and financial condition.",
+    "word_count": 55,
+    "source": "Apple 10-K 2022"
+  },
+  {
+    "id": 74,
+    "text": "Apple Inc. | 2022 Form 10-K | 14 There can be no assurance the Company’s business will not be materially adversely affected, individually or in the aggregate, by the outcomes of such investigations, litigation or changes to laws and regulations in the future.",
+    "word_count": 43,
+    "source": "Apple 10-K 2022"
+  },
+  {
+    "id": 75,
+    "text": "Changes to the Company’s business practices to comply with new laws and regulations or in connection with other legal proceedings could negatively impact the reputation of the Company’s products for privacy and security and otherwise adversely affect the experience for users of the Company’s products and services, and result in harm to the Company’s reputation, loss of competitive advantage, poor market acceptance, reduced demand for products and services, and lost sales.",
+    "word_count": 71,
+    "source": "Apple 10-K 2022"
+  },
+  {
+    "id": 76,
+    "text": "In addition to the risks generally relating to the collection, use, retention, security and transfer of personal information, the Company is also subject to specific obligations relating to information considered sensitive under applicable laws, such as health data, financial data and biometric data.",
+    "word_count": 43,
+    "source": "Apple 10-K 2022"
+  },
+  {
+    "id": 77,
+    "text": "If the Company fails to adequately comply with these rules and requirements, or if health data or financial data is handled in a manner not permitted by law or under the Company’s agreements with healthcare or financial institutions, the Company can be subject to litigation or government investigations, and can be liable for associated investigatory expenses, and can also incur significant fees or fines.",
+    "word_count": 64,
+    "source": "Apple 10-K 2022"
+  },
+  {
+    "id": 78,
+    "text": "Under payment card rules and obligations, if cardholder information is potentially compromised, the Company can be liable for associated investigatory expenses and can also incur significant fees or fines if the Company fails to follow payment card industry data security standards.",
+    "word_count": 41,
+    "source": "Apple 10-K 2022"
+  },
+  {
+    "id": 79,
+    "text": "The Company could also experience a significant increase in payment card transaction costs or lose the ability to process payment cards if it fails to follow payment card industry data security standards, which could materially adversely affect the Company’s business, reputation, results of operations and financial condition.",
+    "word_count": 47,
+    "source": "Apple 10-K 2022"
+  },
+  {
+    "id": 80,
+    "text": "The Company’s gross margins are subject to volatility and downward pressure due to a variety of factors, including: continued industry-wide global product pricing pressures and product pricing actions that the Company may take in response to such pressures; increased competition; the Company’s ability to effectively stimulate demand for certain of its products and services; compressed product life cycles; supply shortages; potential increases in the cost of components, outside manufacturing services, and developing, acquiring and delivering content for the Company’s services; the Company’s ability to manage product quality and warranty costs effectively; shifts in the mix of products and services, or in the geographic, currency or channel mix, including to the extent that regulatory changes require the Company to modify its product and service offerings; fluctuations in foreign exchange rates; inflation and other macroeconomic pressures; and the introduction of new products or services, including new products or services with higher cost structures.",
+    "word_count": 151,
+    "source": "Apple 10-K 2022"
+  },
+  {
+    "id": 81,
+    "text": "The Company could also be subject to unexpected developments, such as lower-than-anticipated demand for the Company’s products or services, issues with new product or service introductions, information technology system failures or network disruptions, or failure of one of the Company’s logistics, components supply, or manufacturing partners.",
+    "word_count": 46,
+    "source": "Apple 10-K 2022"
+  },
+  {
+    "id": 82,
+    "text": "The weakening of foreign currencies relative to the U.S. dollar adversely affects the U.S. dollar value of the Company’s foreign currency–denominated sales and earnings, and generally leads the Company to raise international pricing, potentially reducing demand for the Company’s products.",
+    "word_count": 40,
+    "source": "Apple 10-K 2022"
+  },
+  {
+    "id": 83,
+    "text": "In some circumstances, for competitive or other reasons, the Company may decide not to raise international pricing to offset the U.S. dollar’s strengthening, which would adversely affect the U.S. dollar value of the gross margins the Company earns on foreign currency–denominated sales.",
+    "word_count": 42,
+    "source": "Apple 10-K 2022"
+  },
+  {
+    "id": 84,
+    "text": "Conversely, a strengthening of foreign currencies relative to the U.S. dollar, while generally beneficial to the Company’s foreign currency–denominated sales and earnings, could cause the Company to reduce international pricing and incur losses on its foreign currency derivative instruments, thereby limiting the benefit.",
+    "word_count": 43,
+    "source": "Apple 10-K 2022"
+  },
+  {
+    "id": 85,
+    "text": "Therefore, although the Company has not realized any significant losses on its cash, cash equivalents, and marketable and non-marketable securities, future fluctuations in their value could result in significant losses and could have a material adverse impact on the Company’s results of operations and financial condition.",
+    "word_count": 46,
+    "source": "Apple 10-K 2022"
+  },
+  {
+    "id": 86,
+    "text": "A substantial majority of the Company’s outstanding trade receivables are not covered by collateral, third-party bank support or financing arrangements, or credit insurance, and a significant portion of the Company’s trade receivables can be concentrated within cellular network carriers or other resellers.",
+    "word_count": 42,
+    "source": "Apple 10-K 2022"
+  },
+  {
+    "id": 87,
+    "text": "While the Company has procedures to monitor and limit exposure to credit risk on its trade and vendor non-trade receivables, as well as long-term prepayments, there can be no assurance such procedures will effectively limit its credit risk and avoid losses.",
+    "word_count": 41,
+    "source": "Apple 10-K 2022"
+  },
+  {
+    "id": 88,
+    "text": "The Company’s effective tax rates are affected by changes in the mix of earnings in countries with differing statutory tax rates, changes in the valuation of deferred tax assets and liabilities, the introduction of new taxes, or changes in tax laws or their interpretation, including in the U.S. and Ireland.",
+    "word_count": 50,
+    "source": "Apple 10-K 2022"
+  },
+  {
+    "id": 89,
+    "text": "If the Company’s effective tax rates were to increase, particularly in the U.S. or Ireland, or if the ultimate determination of the Company’s taxes owed is for an amount in excess of amounts previously accrued, the Company’s business, results of operations and financial condition could be materially adversely affected.",
+    "word_count": 49,
+    "source": "Apple 10-K 2022"
+  },
+  {
+    "id": 90,
+    "text": "Additionally, the Company, the technology industry and the stock market as a whole have, from time to time, experienced extreme stock price and volume fluctuations that have affected stock prices in ways that may have been unrelated to these companies’ operating performance.",
+    "word_count": 42,
+    "source": "Apple 10-K 2022"
+  },
+  {
+    "id": 91,
+    "text": "If the Company fails to meet expectations related to future growth, profitability, dividends, share repurchases or other market expectations, the price of the Company’s stock may decline significantly, which could have a material adverse impact on investor confidence and employee retention.",
+    "word_count": 41,
+    "source": "Apple 10-K 2022"
+  },
+  {
+    "id": 92,
+    "text": "On September 10, 2021, the Northern California District Court ruled in favor of the Company with respect to nine out of the ten counts included in Epic’s claim, and in favor of the Company with respect to the Company’s claims for breach of contract.",
+    "word_count": 44,
+    "source": "Apple 10-K 2022"
+  },
+  {
+    "id": 93,
+    "text": "Discussions of 2020 items and year-to-year comparisons between 2021 and 2020 are not included in this Form 10-K, and can be found in “Management’s Discussion and Analysis of Financial Condition and Results of Operations” in Part II, Item 7 of the Company’s Annual Report on Form 10-K for the fiscal year ended September 25,",
+    "word_count": 54,
+    "source": "Apple 10-K 2022"
+  },
+  {
+    "id": 94,
+    "text": "Third Quarter 2022: •Updated MacBook Air and MacBook Pro 13”, both powered by the Apple M2 chip; •iOS 16, macOS Ventura, iPadOS 16 and watchOS 9, updates to the Company’s operating systems; and •Apple Pay Later, a buy now, pay later service.",
+    "word_count": 42,
+    "source": "Apple 10-K 2022"
+  },
+  {
+    "id": 95,
+    "text": "COVID-19 The COVID-19 pandemic has had, and continues to have, a significant impact around the world, prompting governments and businesses to take unprecedented measures, such as restrictions on travel and business operations, temporary closures of businesses, and quarantine and shelter-in-place orders.",
+    "word_count": 41,
+    "source": "Apple 10-K 2022"
+  },
+  {
+    "id": 96,
+    "text": "(68) % $ 803 The decrease in OI&E during 2022 compared to 2021 was due primarily to higher realized losses on debt securities, unfavorable fair value adjustments on equity securities and higher interest expense, partially offset by higher foreign exchange gains.",
+    "word_count": 41,
+    "source": "Apple 10-K 2022"
+  },
+  {
+    "id": 97,
+    "text": "Provision for Income Taxes Provision for income taxes, effective tax rate and statutory federal income tax rate for 2022, 2021 and 2020 were as follows (dollars in millions): 2022 2021 2020 Provision for income taxes $ 19,300 $ 14,527 $ 9,680 Effective tax rate",
+    "word_count": 44,
+    "source": "Apple 10-K 2022"
+  },
+  {
+    "id": 98,
+    "text": "4.4 % Statutory federal income tax rate 21 % 21 % 21 % The Company’s effective tax rate for 2022 was lower than the statutory federal income tax rate due primarily to a lower effective tax rate on foreign earnings, tax benefits from share-based compensation and the impact of the U.S. federal R&D credit, partially offset by state income taxes.",
+    "word_count": 60,
+    "source": "Apple 10-K 2022"
+  },
+  {
+    "id": 99,
+    "text": "The Company’s effective tax rate for 2022 was higher compared to 2021 due primarily to a higher effective tax rate on foreign earnings, including the impact to U.S. foreign tax credits as a result of regulatory guidance issued by the U.S.",
+    "word_count": 41,
+    "source": "Apple 10-K 2022"
+  },
+  {
+    "id": 100,
+    "text": "Critical Accounting Estimates The preparation of financial statements and related disclosures in conformity with U.S. generally accepted accounting principles (“GAAP”) and the Company’s discussion and analysis of its financial condition and operating results require the Company’s management to make judgments, assumptions and estimates that affect the amounts reported.",
+    "word_count": 48,
+    "source": "Apple 10-K 2022"
+  },
+  {
+    "id": 101,
+    "text": "Note 1, “Summary of Significant Accounting Policies” of the Notes to Consolidated Financial Statements in Part II, Item 8 of this Form 10-K describes the significant accounting policies and methods used in the preparation of the Company’s consolidated financial statements.",
+    "word_count": 40,
+    "source": "Apple 10-K 2022"
+  },
+  {
+    "id": 102,
+    "text": "The evaluation of the Company’s uncertain tax positions involves significant judgment in the interpretation and application of GAAP and complex domestic and international tax laws, including the Act and matters related to the allocation of international taxation rights between countries.",
+    "word_count": 40,
+    "source": "Apple 10-K 2022"
+  },
+  {
+    "id": 103,
+    "text": "Quantitative and Qualitative Disclosures About Market Risk Interest Rate and Foreign Currency Risk Management The Company regularly reviews its foreign exchange forward and option positions and interest rate swaps, both on a stand-alone basis and in conjunction with its underlying foreign currency and interest rate exposures.",
+    "word_count": 46,
+    "source": "Apple 10-K 2022"
+  },
+  {
+    "id": 104,
+    "text": "Given the effective horizons of the Company’s risk management activities and the anticipatory nature of the exposures, there can be no assurance these positions will offset more than a portion of the financial impact resulting from movements in either foreign exchange or interest rates.",
+    "word_count": 44,
+    "source": "Apple 10-K 2022"
+  },
+  {
+    "id": 105,
+    "text": "Further, the recognition of the gains and losses related to these instruments may not coincide with the timing of gains and losses related to the underlying economic exposures and, therefore, may adversely affect the Company’s financial condition and operating results.",
+    "word_count": 40,
+    "source": "Apple 10-K 2022"
+  },
+  {
+    "id": 106,
+    "text": "To provide a meaningful assessment of the interest rate risk associated with the Company’s investment portfolio, the Company performed a sensitivity analysis to determine the impact a change in interest rates would have on the value of the investment portfolio assuming a 100 basis point parallel shift in the yield curve.",
+    "word_count": 51,
+    "source": "Apple 10-K 2022"
+  },
+  {
+    "id": 107,
+    "text": "The Company may enter into foreign currency forward and option contracts with financial institutions to protect against foreign exchange risks associated with certain existing assets and liabilities, certain firmly committed transactions, forecasted future cash flows and net investments in foreign subsidiaries.",
+    "word_count": 41,
+    "source": "Apple 10-K 2022"
+  },
+  {
+    "id": 108,
+    "text": "Apple Inc. | 2022 Form 10-K | 26 To provide an assessment of the foreign currency risk associated with certain of the Company’s foreign currency derivative positions, the Company performed a sensitivity analysis using a value-at-risk (“VAR”) model to assess the potential impact of fluctuations in exchange rates.",
+    "word_count": 48,
+    "source": "Apple 10-K 2022"
+  },
+  {
+    "id": 109,
+    "text": "Actual future gains and losses associated with the Company’s investment portfolio, debt and derivative positions may differ materially from the sensitivity analyses performed as of September 24, 2022 due to the inherent limitations associated with predicting the timing and amount of changes in interest rates, foreign currency exchange rates and the Company’s actual exposures and positions.",
+    "word_count": 56,
+    "source": "Apple 10-K 2022"
+  },
+  {
+    "id": 110,
+    "text": "The Company’s process for estimating SSPs without observable prices considers multiple factors that may vary depending upon the unique facts and circumstances related to each performance obligation including, where applicable, prices charged by the Company for similar offerings, market trends in the pricing for similar offerings, product-specific business objectives and the estimated cost to provide the performance obligation.",
+    "word_count": 58,
+    "source": "Apple 10-K 2022"
+  },
+  {
+    "id": 111,
+    "text": "Apple Inc. | 2022 Form 10-K | 34 For the sale of third-party products where the Company obtains control of the product before transferring it to the customer, the Company recognizes revenue based on the gross amount billed to customers.",
+    "word_count": 40,
+    "source": "Apple 10-K 2022"
+  },
+  {
+    "id": 112,
+    "text": "The Company considers multiple factors when determining whether it obtains control of third-party products, including evaluating if it can establish the price of the product, retains inventory risk for tangible products or has the responsibility for ensuring acceptability of the product.",
+    "word_count": 41,
+    "source": "Apple 10-K 2022"
+  },
+  {
+    "id": 113,
+    "text": "Share-Based Compensation The Company generally measures share-based compensation based on the closing price of the Company’s common stock on the date of grant, and recognizes expense on a straight-line basis for its estimate of equity awards that will ultimately vest.",
+    "word_count": 40,
+    "source": "Apple 10-K 2022"
+  },
+  {
+    "id": 114,
+    "text": "Further information regarding share-based compensation can be found in Note 9, “Benefit Plans.” Earnings Per Share The following table shows the computation of basic and diluted earnings per share for 2022, 2021 and 2020 (net income in millions and shares in thousands): 2022 2021 2020 Numerator: Net income $ 99,803 $ 94,680 $ 57,411 Denominator: Weighted-average basic shares outstanding 16,215,963 16,701,272 17,352,119 Effect of dilutive securities 109,856 163,647 176,095 Weighted-average diluted shares 16,325,819 16,864,919 17,528,214 Basic earnings per share $",
+    "word_count": 80,
+    "source": "Apple 10-K 2022"
+  },
+  {
+    "id": 115,
+    "text": "Property, Plant and Equipment Depreciation on property, plant and equipment is recognized on a straight-line basis over the estimated useful lives of the assets, which for buildings is the shorter of 40 years or the remaining life of the building; between one and five years for machinery and equipment, including manufacturing equipment; and the shorter of the lease term or useful life for leasehold improvements.",
+    "word_count": 65,
+    "source": "Apple 10-K 2022"
+  },
+  {
+    "id": 116,
+    "text": "For options designated as cash flow hedges, the Company excludes time value from the assessment of hedge effectiveness and recognizes it on a straight-line basis over the life of the hedge in the Consolidated Statements of Operations line item to which the hedge relates.",
+    "word_count": 44,
+    "source": "Apple 10-K 2022"
+  },
+  {
+    "id": 117,
+    "text": "Gains and losses arising from amounts that are included in the assessment of fair value hedge effectiveness are recognized in the Consolidated Statements of Operations line item to which the hedge relates along with offsetting losses and gains related to the change in value of the hedged item.",
+    "word_count": 48,
+    "source": "Apple 10-K 2022"
+  },
+  {
+    "id": 118,
+    "text": "The valuation techniques used to measure the fair value of the Company’s debt instruments and all other financial instruments, which generally have counterparties with high credit ratings, are based on quoted market prices or model-driven valuations using significant inputs derived from or corroborated by observable market data.",
+    "word_count": 47,
+    "source": "Apple 10-K 2022"
+  },
+  {
+    "id": 119,
+    "text": "Although the reportable segments provide similar hardware and software products and similar services, each one is managed separately to better align with the location of the Company’s customers and distribution partners and the unique market dynamics of each geographic region.",
+    "word_count": 40,
+    "source": "Apple 10-K 2022"
+  },
+  {
+    "id": 120,
+    "text": "The Company may also enter into derivative instruments that are not designated as accounting hedges to protect gross margins from certain fluctuations in foreign currency exchange rates, as well as to offset a portion of the foreign currency exchange gains and losses generated by the remeasurement of certain assets and liabilities denominated in non-functional currencies.",
+    "word_count": 55,
+    "source": "Apple 10-K 2022"
+  },
+  {
+    "id": 121,
+    "text": "The notional amounts of the Company’s outstanding derivative instruments as of September 24, 2022 and September 25, 2021 were as follows (in millions): 2022 2021 Derivative instruments designated as accounting hedges: Foreign exchange contracts $ 102,670 $ 76,475 Interest rate contracts $ 20,125 $ 16,875 Derivative instruments not designated as accounting hedges: Foreign exchange contracts $ 185,381 $ 126,918 Apple Inc. | 2022 Form 10-K | 39 The gross fair values of the Company’s derivative assets and liabilities as of September 24, 2022 were as follows (in millions): 2022 Fair Value of Derivatives Designated as Accounting Hedges Fair Value of Derivatives Not Designated as Accounting Hedges Total Fair Value Derivative assets",
+    "word_count": 111,
+    "source": "Apple 10-K 2022"
+  },
+  {
+    "id": 122,
+    "text": "To further limit credit risk, the Company generally enters into master netting arrangements with the respective counterparties to the Company’s derivative contracts, under which the Company is allowed to settle transactions with a single net amount payable by one party to the other.",
+    "word_count": 43,
+    "source": "Apple 10-K 2022"
+  },
+  {
+    "id": 123,
+    "text": "(liabilities): Current and non-current marketable securities $ 13,378 $ 15,954 Current and non-current term debt $ (18,739) $ (17,857) Accounts Receivable Trade Receivables The Company has considerable trade receivables outstanding with its third-party cellular network carriers, wholesalers, retailers, resellers, small and mid-sized businesses and education, enterprise and government customers.",
+    "word_count": 49,
+    "source": "Apple 10-K 2022"
+  },
+  {
+    "id": 124,
+    "text": "European Commission State Aid Decision On August 30, 2016, the European Commission announced its decision that Ireland granted state aid to the Company by providing tax opinions in 1991 and 2007 concerning the tax allocation of profits of the Irish branches of two subsidiaries of the Company (the “State Aid Decision”).",
+    "word_count": 51,
+    "source": "Apple 10-K 2022"
+  },
+  {
+    "id": 125,
+    "text": "The following table provides a summary of cash flows associated with the issuance and maturities of Commercial Paper for 2022, 2021 and 2020 (in millions): In 2020, the Company entered into agreements to sell certain of its marketable securities with a promise to repurchase the securities at a specified time and amount (“Repos”).",
+    "word_count": 53,
+    "source": "Apple 10-K 2022"
+  },
+  {
+    "id": 126,
+    "text": "The following table provides a summary of the Company’s term debt as of September 24, 2022 and September 25, 2021:To manage interest rate risk on certain of its U.S. dollar–denominated fixed-rate notes, the Company has entered into interest rate swaps to effectively convert the fixed interest rates to floating interest rates on a portion of these notes.",
+    "word_count": 57,
+    "source": "Apple 10-K 2022"
+  },
+  {
+    "id": 127,
+    "text": "2.8 billion of interest expense on its term debt for 2022, 2021 and 2020, respectively.Note 9 – Benefit Plans 2022 Employee Stock Plan In the second quarter of 2022, shareholders approved the Apple Inc. 2022 Employee Stock Plan (the “2022 Plan”), which provides for broad-based equity grants to employees, including executive officers, and permits the granting of restricted stock units (“RSUs”), stock grants, performance-based awards, stock options and stock appreciation rights.",
+    "word_count": 71,
+    "source": "Apple 10-K 2022"
+  },
+  {
+    "id": 128,
+    "text": "(iii) permits the Board of Directors to prospectively change the value and relative mixture of stock options and RSUs for the initial and annual award grants and the methodology for determining the number of shares of the Company’s common stock subject to these grants, in each case within the limits set forth in the Director Plan and without further shareholder approval.",
+    "word_count": 61,
+    "source": "Apple 10-K 2022"
+  },
+  {
+    "id": 129,
+    "text": "Employee Stock Purchase Plan The Employee Stock Purchase Plan (the “Purchase Plan”) is a shareholder-approved plan under which substantially all employees may voluntarily enroll to purchase the Company’s common stock through payroll deductions at a price equal to 85% of the lower of the fair market values of the stock as of the beginning or the end of six-month offering periods.",
+    "word_count": 61,
+    "source": "Apple 10-K 2022"
+  },
+  {
+    "id": 130,
+    "text": "The majority of RSUs that vested in 2022, 2021 and 2020 were net share settled such that the Company withheld shares with a value equivalent to the employees’ obligation for the applicable income and other employment taxes, and remitted the cash to the appropriate taxing authorities.",
+    "word_count": 46,
+    "source": "Apple 10-K 2022"
+  },
+  {
+    "id": 131,
+    "text": "The total shares withheld were approximately 41 million, 53 million and 56 million for 2022, 2021 and 2020, respectively, and were based on the value of the RSUs on their respective vesting dates as determined by the Company’s closing stock price.",
+    "word_count": 41,
+    "source": "Apple 10-K 2022"
+  },
+  {
+    "id": 132,
+    "text": "Apple Inc. | 2022 Form 10-K | 47 Share-Based Compensation The following table shows share-based compensation expense and the related income tax benefit included in the Consolidated Statements of Operations for 2022, 2021 and 2020 (in millions): 2022 2021 2020 Share-based compensation expense $ 9,038 $ 7,906 $ 6,829 Income tax benefit related to share-based compensation expense $ (4,002) $ (4,056) $ (2,476) As of September 24, 2022, the total unrecognized compensation cost related to outstanding RSUs and stock options was $",
+    "word_count": 82,
+    "source": "Apple 10-K 2022"
+  },
+  {
+    "id": 133,
+    "text": "Note 10 – Commitments and Contingencies Concentrations in the Available Sources of Supply of Materials and Product Although most components essential to the Company’s business are generally available from multiple sources, certain components are currently obtained from single or limited sources.",
+    "word_count": 41,
+    "source": "Apple 10-K 2022"
+  },
+  {
+    "id": 134,
+    "text": "Future payments under noncancelable unconditional purchase obligations with a remaining term in excess of one year as of September 24, 2022, are as follows (in millions): 2023 $ 13,488 2024 4,876 2025 1,418 2026 6,780 2027 312 Thereafter 412 Total $ 27,286",
+    "word_count": 42,
+    "source": "Apple 10-K 2022"
+  },
+  {
+    "id": 135,
+    "text": "Opinion on the Financial Statements We have audited the accompanying consolidated balance sheets of Apple Inc. as of September 24, 2022 and September 25, 2021, the related consolidated statements of operations, comprehensive income, shareholders’ equity and cash flows for each of the three years in the period ended September 24, 2022, and the related notes (collectively referred to as the “financial statements”).",
+    "word_count": 62,
+    "source": "Apple 10-K 2022"
+  },
+  {
+    "id": 136,
+    "text": "In our opinion, the financial statements present fairly, in all material respects, the financial position of Apple Inc. at September 24, 2022 and September 25, 2021, and the results of its operations and its cash flows for each of the three years in the period ended September 24, 2022, in conformity with U.S. generally accepted accounting principles.",
+    "word_count": 57,
+    "source": "Apple 10-K 2022"
+  },
+  {
+    "id": 137,
+    "text": "We also have audited, in accordance with the standards of the Public Company Accounting Oversight Board (United States) (the “PCAOB”), Apple Inc.’s internal control over financial reporting as of September 24, 2022, based on criteria established in Internal Control – Integrated Framework issued by the Committee of Sponsoring Organizations of the Treadway Commission (2013 framework) and our report dated October 27, 2022 expressed an unqualified opinion thereon.",
+    "word_count": 67,
+    "source": "Apple 10-K 2022"
+  },
+  {
+    "id": 138,
+    "text": "The communication of the critical audit matter does not alter in any way our opinion on the financial statements, taken as a whole, and we are not, by communicating the critical audit matter below, providing a separate opinion on the critical audit matter or on the account or disclosure to which it relates.",
+    "word_count": 53,
+    "source": "Apple 10-K 2022"
+  },
+  {
+    "id": 139,
+    "text": "Auditing management’s evaluation of whether an uncertain tax position is more likely than not to be sustained and the measurement of the benefit of various tax positions can be complex, involves significant judgment, and is based on interpretations of tax laws and legal rulings.",
+    "word_count": 44,
+    "source": "Apple 10-K 2022"
+  },
+  {
+    "id": 140,
+    "text": "Apple Inc. | 2022 Form 10-K | 50 How We Addressed the Matter in Our Audit We tested controls relating to the evaluation of uncertain tax positions, including controls over management’s assessment as to whether tax positions are more likely than not to be sustained, management’s process to measure the benefit of its tax positions, and the development of the related disclosures.",
+    "word_count": 62,
+    "source": "Apple 10-K 2022"
+  },
+  {
+    "id": 141,
+    "text": "To evaluate Apple Inc.’s assessment of which tax positions are more likely than not to be sustained, our audit procedures included, among others, reading and evaluating management’s assumptions and analysis, and, as applicable, Apple Inc.’s communications with taxing authorities, that detailed the basis and technical merits of the uncertain tax positions.",
+    "word_count": 51,
+    "source": "Apple 10-K 2022"
+  },
+  {
+    "id": 142,
+    "text": "Opinion on Internal Control Over Financial Reporting We have audited Apple Inc.’s internal control over financial reporting as of September 24, 2022, based on criteria established in Internal Control – Integrated Framework issued by the Committee of Sponsoring Organizations of the Treadway Commission (2013 framework) (the “COSO criteria”).",
+    "word_count": 48,
+    "source": "Apple 10-K 2022"
+  },
+  {
+    "id": 143,
+    "text": "We also have audited, in accordance with the standards of the Public Company Accounting Oversight Board (United States) (the “PCAOB”), the consolidated balance sheets of Apple Inc. as of September 24, 2022 and September 25, 2021, the related consolidated statements of operations, comprehensive income, shareholders’ equity and cash flows for each of the three years in the period ended September 24, 2022, and the related notes and our report dated October 27, 2022 expressed an unqualified opinion thereon.",
+    "word_count": 78,
+    "source": "Apple 10-K 2022"
+  },
+  {
+    "id": 144,
+    "text": "Basis for Opinion Apple Inc.’s management is responsible for maintaining effective internal control over financial reporting, and for its assessment of the effectiveness of internal control over financial reporting included in the accompanying Management’s Annual Report on Internal Control over Financial Reporting.",
+    "word_count": 42,
+    "source": "Apple 10-K 2022"
+  },
+  {
+    "id": 145,
+    "text": "Our audit included obtaining an understanding of internal control over financial reporting, assessing the risk that a material weakness exists, testing and evaluating the design and operating effectiveness of internal control based on the assessed risk, and performing such other procedures as we considered necessary in the circumstances.",
+    "word_count": 48,
+    "source": "Apple 10-K 2022"
+  },
+  {
+    "id": 146,
+    "text": "Definition and Limitations of Internal Control Over Financial Reporting A company’s internal control over financial reporting is a process designed to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with U.S. generally accepted accounting principles.",
+    "word_count": 47,
+    "source": "Apple 10-K 2022"
+  },
+  {
+    "id": 147,
+    "text": "(2) provide reasonable assurance that transactions are recorded as necessary to permit preparation of financial statements in accordance with U.S. generally accepted accounting principles, and that receipts and expenditures of the company are being made only in accordance with authorizations of management and directors of the company; and",
+    "word_count": 48,
+    "source": "Apple 10-K 2022"
+  },
+  {
+    "id": 148,
+    "text": "Also, projections of any evaluation of effectiveness to future periods are subject to the risk that controls may become inadequate because of changes in conditions, or that the degree of compliance with the policies or procedures may deteriorate. /s/ Ernst & Young LLP San Jose, California October 27, 2022 Apple Inc. | 2022 Form 10-K | 52 Item",
+    "word_count": 58,
+    "source": "Apple 10-K 2022"
+  },
+  {
+    "id": 149,
+    "text": "Controls and Procedures Evaluation of Disclosure Controls and Procedures Based on an evaluation under the supervision and with the participation of the Company’s management, the Company’s principal executive officer and principal financial officer have concluded that the Company’s disclosure controls and procedures as defined in Rules 13a-15",
+    "word_count": 47,
+    "source": "Apple 10-K 2022"
+  },
+  {
+    "id": 150,
+    "text": "Inherent Limitations over Internal Controls The Company’s internal control over financial reporting is designed to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with U.S. generally accepted accounting principles (“GAAP”).",
+    "word_count": 42,
+    "source": "Apple 10-K 2022"
+  },
+  {
+    "id": 151,
+    "text": "(ii)provide reasonable assurance that transactions are recorded as necessary to permit preparation of financial statements in accordance with GAAP, and that the Company’s receipts and expenditures are being made only in accordance with authorizations of the Company’s management and directors; and",
+    "word_count": 41,
+    "source": "Apple 10-K 2022"
+  },
+  {
+    "id": 152,
+    "text": "Also, any evaluation of the effectiveness of controls in future periods are subject to the risk that those internal controls may become inadequate because of changes in business conditions, or that the degree of compliance with the policies or procedures may deteriorate.",
+    "word_count": 42,
+    "source": "Apple 10-K 2022"
+  },
+  {
+    "id": 153,
+    "text": "Management conducted an assessment of the effectiveness of the Company’s internal control over financial reporting based on the criteria set forth in Internal Control – Integrated Framework issued by the Committee of Sponsoring Organizations of the Treadway Commission (2013 framework).",
+    "word_count": 40,
+    "source": "Apple 10-K 2022"
+  },
+  {
+    "id": 154,
+    "text": "Based on the Company’s assessment, management has concluded that its internal control over financial reporting was effective as of September 24, 2022 to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements in accordance with GAAP.",
+    "word_count": 42,
+    "source": "Apple 10-K 2022"
+  },
+  {
+    "id": 155,
+    "text": "An equity trading plan is a written document that preestablishes the amounts, prices and dates (or formula for determining the amounts, prices and dates) of future purchases or sales of the Company’s stock, including sales of shares acquired under the Company’s employee and director equity plans.",
+    "word_count": 46,
+    "source": "Apple 10-K 2022"
+  },
+  {
+    "id": 156,
+    "text": "Directors, Executive Officers and Corporate Governance The information required by this Item will be included in the Company’s definitive proxy statement to be filed with the SEC within 120 days after September 24, 2022, in connection with the solicitation of proxies for the Company’s 2023 annual meeting of shareholders (the “2023 Proxy Statement”), and is incorporated herein by reference.",
+    "word_count": 59,
+    "source": "Apple 10-K 2022"
+  },
+  {
+    "id": 157,
+    "text": "Principal Accountant Fees and Services The information required by this Item will be included in the 2023 Proxy Statement, and is incorporated herein by reference.Power of Attorney KNOW ALL PERSONS BY THESE PRESENTS, that each person whose signature appears below constitutes and appoints Timothy D.",
+    "word_count": 45,
+    "source": "Apple 10-K 2022"
+  },
+  {
+    "id": 158,
+    "text": "Cook and Luca Maestri, jointly and severally, his or her attorneys-in-fact, each with the power of substitution, for him or her in any and all capacities, to sign any amendments to this Annual Report on Form 10-K, and to file the same, with exhibits thereto and other documents in connection therewith, with the Securities and Exchange Commission, hereby ratifying and confirming all that each of said attorneys-in-fact, or his substitute or substitutes, may do or cause to be done by virtue hereof.",
+    "word_count": 82,
+    "source": "Apple 10-K 2022"
+  }
+]
