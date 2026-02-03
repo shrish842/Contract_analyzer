@@ -5,7 +5,8 @@ from typing import List, Dict
 def save_cleaned_clauses(
     clauses: List[str],
     output_path: str,
-    source: str
+    source: str,
+    contract_type = None
 ) -> None:
     """
     Save cleaned clause / risk-unit data to JSON.
@@ -23,9 +24,14 @@ def save_cleaned_clauses(
             "id": idx,
             "text": clause,
             "word_count": len(clause.split()),
-            "source": source
+            "source": source,
         })
+        if contract_type:
+            records["contract_type"] = contract_type
 
+        records.append(records)
+    
+    
     output_file = Path(output_path)
     output_file.parent.mkdir(parents=True, exist_ok=True)
 

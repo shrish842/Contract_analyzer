@@ -7,7 +7,7 @@ sys.path.append(str(Path(__file__).resolve().parents[1]))
 from src.ingestion.load_text import load_contract_text
 from src.preprocessing.normalize import normalize_text
 
-RAW_FILE = "data/raw/apple_extracted_contracts.txt"
+RAW_FILE = "data/raw/real_contracts/Contract_data.txt"
 
 print("Loading text...")
 text = load_contract_text(RAW_FILE)
